@@ -2,6 +2,7 @@
 Java 7(Calculator)
 
 import java.util.Scanner;
+
 class calc
 {
 
