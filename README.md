@@ -1,5 +1,5 @@
 # Day-7--java
-Java 7(Calculator)
+#Java 7(Calculator)
 
 import java.util.Scanner;
 
